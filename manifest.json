@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "Jinaq",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "shingiskhan.png"
+  },
+  "permissions": ["tabs"]
+}
